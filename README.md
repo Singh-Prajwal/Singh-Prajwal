@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Singh-Prajwal
-- 👀 I’m interested in software Developer as Full Stack  Web developing and Software development(C++)
+- 👀 I’m interested in software Developer as Full Stack  Web developing 
 - 🌱 I’m currently learning Agile techniques
-- 💞️ I’m looking to collaborate as an Full Stack Web Development or Software developer(C++)
+- 💞️ I’m looking to collaborate as an Full Stack Web Development 
 - 📫 How to reach me ID:-prajwal.singh.226@gmail.com Linkedin:-prajwal-singh
 
 <!---
